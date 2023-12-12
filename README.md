@@ -14,3 +14,10 @@ Bem-vindo ao meu espaço no GitHub, onde estou explorando as maravilhas do mundo
 - 🛠️ Ferramentas: VSCode, GitHub.
 - 🚧 Em constante busca por novas tecnologias e desafios.
   
+<div style="display: inline_block"><br>
+  <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
+
