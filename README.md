@@ -13,4 +13,4 @@ Bem-vindo ao meu espaço no GitHub, onde estou explorando as maravilhas do mundo
 - 👨‍💻 Linguagens: JavaScript, HTML, CSS.
 - 🛠️ Ferramentas: VSCode, GitHub.
 - 🚧 Em constante busca por novas tecnologias e desafios.
-- 
+  
