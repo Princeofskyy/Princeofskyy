@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, eu sou o Gabriel Costa! 👋
 
-<!--
-**Princeofskyy/Princeofskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu espaço no GitHub, onde estou explorando as maravilhas do mundo da programação e aprendendo a usar esta incrível plataforma!
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Atualmente embarcando na jornada de aprendizado no universo da programação.
+- 🌱 Aprendendo e aprimorando habilidades em diversas linguagens, frameworks e tecnologias.
+- 💡 Empenhado em projetos web.
+
+## Tecnologias que Estou Explorando
+
+- 👨‍💻 Linguagens: JavaScript, HTML, CSS.
+- 🛠️ Ferramentas: VSCode, GitHub.
+- 🚧 Em constante busca por novas tecnologias e desafios.
+- 
