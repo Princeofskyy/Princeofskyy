@@ -1,7 +1,6 @@
 # Olá, eu sou o Gabriel Costa! 👋
 
-Bem-vindo ao meu espaço no GitHub, onde estou explorando as maravilhas do mundo da programação e aprendendo a usar esta incrível plataforma!
-
+Bem-vindo ao meu espaço no GitHub, onde estou explorando e aprendendo o mundo da programação!
 ## Sobre Mim
 
 - 🚀 Atualmente embarcando na jornada de aprendizado no universo da programação.
